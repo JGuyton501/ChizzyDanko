@@ -39,7 +39,7 @@ footer.page-footer {
 /*background : https://cdn.pixabay.com/photo/2015/11/26/07/47/hands-1063442_1280.jpg*/
 
 .view {
-    background: url("https://cdn.pixabay.com/photo/2017/01/02/21/22/hands-1947915_1280.jpg")no-repeat center center fixed;
+    background: url("../img/main/hands.jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
